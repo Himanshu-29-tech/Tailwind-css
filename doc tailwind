@@ -1,0 +1,25 @@
+tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.
+It's fast, flexible, and reliable — with zero-runtime.
+
+Installation
+
+Using Vite
+
+Installing Tailwind CSS as a Vite plugin-->>
+Installing Tailwind CSS as a Vite plugin is the most seamless way to integrate it with frameworks like Laravel, SvelteKit, React Router, Nuxt, and SolidJS.
+01
+Create your project
+
+Start by creating a new Vite project if you don’t have one set up already. The most common approach is to use Create Vite.
+#Terimanl
+
+npm create vite@latest my-project
+cd my-project
+
+nstall Tailwind CSS
+
+Install tailwindcss and @tailwindcss/vite via npm.
+
+Terminal
+
+npm install tailwindcss @tailwindcss/vite
