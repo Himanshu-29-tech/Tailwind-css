@@ -84,3 +84,21 @@ Visit the official Tailwind CSS documentation for advanced usage, components, an
 ---
 
 ✅ **Tip:** This file is fully formatted and ready to paste directly into a GitHub README.md.
+
+
+## Tailwind CSS – Introduction
+
+**Tailwind CSS** is a utility-first CSS framework that lets you build modern, responsive designs directly in your HTML using pre-defined classes. Instead of writing custom CSS, you compose styles by combining small utility classes, making development faster and more consistent.
+
+### ✨ Features
+- Utility-first workflow
+- Fully responsive design support
+- Highly customizable
+- Small production build size
+- No runtime dependency
+
+### ⚡ How It Works
+Tailwind scans your project files for class names, generates only the required styles, and outputs a static CSS file. This keeps your final CSS lightweight and optimized.
+
+### 📦 Use Cases
+- Web apps
